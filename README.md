@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-🎓 Junior @ New York University, majoring in Computer Science and minoring in Mathematics  
+🎓 Senior @ New York University, majoring in Computer Science and minoring in Mathematics  
 💼 Software Engineer Intern @ Scam AI (This summer)  
 ⚙️ Focused on backend systems, microservices, and system performance  
 🌱 Currently diving deeper into Kafka, React, and system design  
