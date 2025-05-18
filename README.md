@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 🎓 Junior @ New York University, majoring in Computer Science and minoring in Mathematics  
-💼 Software Engineer Intern @ Sunshine Insurance Group (Summer 2023)  
+💼 Software Engineer Intern @ Scam AI (This summer)  
 ⚙️ Focused on backend systems, microservices, and system performance  
 🌱 Currently diving deeper into Kafka, React, and system design  
 🌍 Passionate about building scalable systems that solve real-world problems
