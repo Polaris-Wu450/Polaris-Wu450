@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-🎓 Senior @ New York University, majoring in Computer Science and minoring in Mathematics  
+🎓 Senior @ New York University, majoring in Computer Science and minoring in Mathematics / Web Programming and Applications
 ⚙️ Focused on backend systems, microservices, and system performance  
 🌱 Currently diving deeper into Kafka, React, and system design  
 🌍 Passionate about building scalable systems that solve real-world problems
