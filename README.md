@@ -14,30 +14,42 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Polaris ✨</h1>
-<p align="center">Backend-Focused Full-Stack Developer | CS Student @ NYU 🗽</p>
+
+<p align="center">AI Engineer &amp; Backend Developer | M.S. Software Engineering @ CMU Silicon Valley 🌉</p>
+
+<p align="center">
+  📫 siqiwu3@andrew.cmu.edu ·
+  <a href="https://www.linkedin.com/in/siqiwu-">LinkedIn</a>
+</p>
 
 ---
 
-🎓 Senior @ New York University, majoring in Computer Science and minoring in Mathematics  
-⚙️ Focused on backend systems, microservices, and system performance  
-🌱 Currently diving deeper into Kafka, React, and system design  
-🌍 Passionate about building scalable systems that solve real-world problems
+- 🎓 CMU MSSE (2026–2027) · NYU CS, *cum laude* (2026)
+- 🔭 AI Engineer Intern @ ESWIN Computing — RAG and agent tooling over chip documentation
+- ⚙️ Where LLM systems meet backend: retrieval pipelines, MCP servers, agentic loops, and the APIs under them
+- 📊 Opinionated about evaluation — precision/recall/F1 and hallucination tracking over vibes
+- 🚀 Open to **Summer 2027 SDE / AI Engineer internships**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![RAG](https://img.shields.io/badge/-RAG-6E44FF?style=flat)
+![Milvus](https://img.shields.io/badge/-Milvus-00A1EA?style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+![MCP](https://img.shields.io/badge/-MCP-D97757?style=flat)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat)
